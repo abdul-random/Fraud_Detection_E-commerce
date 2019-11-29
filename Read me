@@ -1,4 +1,4 @@
 Important:
 This is a project in which we have various attributes in which we have to predict weather the customer is a fraud or not.
-We have two datasets which we have use one is ip_dataset and one is fraud_datasets.
-The features alone is not enough to predict the outcome we have to perform feature engneering and extract some features from the given fetures
+We had two datasets which we have use one is ip_dataset and one is fraud_datasets.
+The features alone is not enough to predict the outcome we had to perform feature engneering and extract some features from the given fetures
